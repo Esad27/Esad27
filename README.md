@@ -48,13 +48,15 @@ I am a Student 👨‍🎓  from Turkey.
 
 <!---
 
-- 👋 Hi, I’m @Esad27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi there, I'm Esad Ezgi
 
+🎯 I am a Computer Engineering student from Turkey, passionate about:
+- Quantitative Finance & Algorithmic Trading
+- Python for data analysis & trading bot development
+- Financial modeling & statistical computing
+- AI-based market prediction
 
-Esad27/Esad27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+💼 Currently building tools to analyze crypto markets using Z-Score & technical indicators.
+📚 Side-studying Statistics & Economics to strengthen my quant foundation.
+
 --->
