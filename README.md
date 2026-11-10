@@ -13,7 +13,3 @@
 
 ### :fire: My Stats :
 ![Esad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esad27&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Esad27&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esad27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
